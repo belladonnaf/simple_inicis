@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Loco Demo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Dec 14 2015 22:18:49 GMT+0900 (대한민국 표준시)\n"
+"PO-Revision-Date: Tue Dec 15 2015 13:55:36 GMT+0900 (대한민국 표준시)\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: Spanish\n"
+"Plural-Forms: nplurals=2; plural=n!=1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: ko_KR\n"
+"X-Loco-Target-Locale: es_ES\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Parser: loco_parse_po"
+
+msgid "Prepare Check"
+msgstr "결제진행"
+
+msgid "Checkout"
+msgstr "결제확인"
+
+msgid "Default Payment Button Value"
+msgstr "결제버턴 텍스트"
+
+msgid "Default Pay-Confirm Button Value"
+msgstr "결제확인 텍스트"
+
+msgid "MID Value"
+msgstr "MID 값"
+
+msgid "signKey Value"
+msgstr "signKey 값"
+
+msgid "Save"
+msgstr "저장하기"
+
+msgid "Update Complete"
+msgstr "옵션 저장 완료"
+
+msgid "Simple"
+msgstr "기본"
+
+msgid "Custom Text"
+msgstr "사용자 설정"
+
+msgid "Payment Test"
+msgstr "결제 테스트"
+
+msgid "Example"
+msgstr "예제"
+
+msgid "Choose Telephone Field from usermeta"
+msgstr "usermeta 에서 전화번호(핸드폰) 필드를 선택합니다."
+
+msgid "Choose Telephone Field from Buddypress"
+msgstr "Buddypress 에서 전화번호(핸드폰) 필드를 선택합니다."
+
+msgid "N/A"
+msgstr "해당사항 없음"
+
+msgid "Screenshot"
+msgstr "스크린샷"
+
+msgid "Inicis need Telephone. You can use this plugin"
+msgstr "이니시스는 전화번호를 필요로 합니다. 이 플러그인을 통해 회원가입시 전화번호 등록을 요구할 수 있습니다."
+
+msgid ""
+"This plugin support Buddypress. If Buddypress is Active, this field will be "
+"override."
+msgstr "이 플러그인은 버디프레스를 지원합니다. 버디프레스가 활성화되어 있으면, 버디프레스에서 지정한 필드가 적용됩니다."
